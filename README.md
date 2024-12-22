@@ -1,1 +1,1 @@
-*** https://youssefahmed26.github.io/raststrant/
+* https://youssefahmed26.github.io/raststrant/
